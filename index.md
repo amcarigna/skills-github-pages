@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!
+title: Welcome to my page!
 ---
+I'm so glad you are here!
